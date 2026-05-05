@@ -1,0 +1,18 @@
+{
+  "name": "Mestre de Obras Maceió — Pedreiro e construção civil",
+  "short_name": "Mestre Maceió",
+  "description": "Pedreiro e mestre de obras em Maceió: construção, reforma e manutenção.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#d35400",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
